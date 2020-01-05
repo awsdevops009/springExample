@@ -17,7 +17,7 @@ pipeline {
         stage('Deploy') {
 		   steps {
 		      sh "mvn package -f  springExample"
-		      echo "It is going to package the project"
+		      echo "It is going to package the project today"
 			  }
              }	     
 	}	}
