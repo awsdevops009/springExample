@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+        system.out.println ("hello");
         return new TestSuite( AppTest.class );
     }
 
