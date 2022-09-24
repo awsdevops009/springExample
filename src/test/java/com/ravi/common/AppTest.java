@@ -26,6 +26,7 @@ public class AppTest
     public static Test suite()
     {
         System.out.println("Good Morning ");
+        System.out.println("Hi Morning ");
         return new TestSuite( AppTest.class );
     }
 
