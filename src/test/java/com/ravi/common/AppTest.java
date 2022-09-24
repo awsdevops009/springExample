@@ -28,6 +28,7 @@ public class AppTest
         System.out.println("Good Morning ");
         System.out.println("Hi Morning ");
         System.out.println("Hi How are You ");
+        System.out.println("HiI am fine ");
         return new TestSuite( AppTest.class );
     }
 
