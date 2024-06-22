@@ -12,7 +12,7 @@ public class AppTest
 {
     /**
      * Create the test case
-     * Hello world , how are You 
+     * Hello world , how are You , i am fine
      * @param testName name of the test case
      */
     public AppTest( String testName )
